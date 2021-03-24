@@ -24,18 +24,27 @@ for listing in realtor_listings:
     
     if (len(listing_price) > 0):
         listing_price = listing_price[0].getText()
+        listing_price = listing_price.replace('$', '')
+        listing_price = listing_price.replace(',', '')
     
     if (len(num_beds) > 0):
         num_beds = num_beds[0].getText()
+        num_beds = num_beds.replace('bed', '')
 
     if (len(num_baths) > 0):
         num_baths = num_baths[0].getText()
+        num_baths = num_baths.replace('+', '')
+        num_baths = num_baths.replace('bath', '')
     
     if (len(sqft) > 0):
         sqft = sqft[0].getText()
+        sqft = sqft.replace(',', '')
+        sqft = sqft.replace('sqft', '')
     
     if (len(address) > 0):
         address = address[0].getText()
+    
+    print("\n")
 
     listing_obj = {}
     listing_obj['price'] = listing_price
