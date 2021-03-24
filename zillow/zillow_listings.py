@@ -28,14 +28,9 @@ while continue_paging:
     print("Current Page")
     print(page_num)
 
+    # only go through 6 pages for now
     if (page_num == 6):
         continue_paging = False
-
-    for paging in paging_info:
-        print("current element")
-        # print(paging)
-        paging_href = paging.select("a")
-        # print(paging_href)
 
     zillow_listings = soup.select(".list-card")
 
@@ -49,17 +44,25 @@ while continue_paging:
 
         if (len(listing_price) > 0):
             listing_price = listing_price[0].getText()
-        
+            listing_price = listing_price.replace('$', '')
+            listing_price = listing_price.replace(',', '')
+            
         if (len(listing_address) > 0):
             listing_address = listing_address[0].getText()
 
         if (len(list_card_details) > 0):
             list_card_details = list_card_details[0].find_all("li")
             num_beds = list_card_details[0].getText()
+            num_beds = num_beds.replace(' bds', '')
+            num_beds = num_beds.replace(' bd', '')
+
             num_baths = list_card_details[1].getText()
+            num_baths = num_baths.replace(' ba', '')
+
             if (len(list_card_details) > 2):
                 sq_ft = list_card_details[2].getText()
-
+                sq_ft = sq_ft.replace(',', '')
+                sq_ft = sq_ft.replace(' sqft', '')
         
         listing_obj = {}
         listing_obj['price'] = listing_price
@@ -72,7 +75,9 @@ while continue_paging:
 
     page_num += 1
 
+print("Data process complete. Writing output file")
 with open('zillow_listings.csv', 'w', encoding='utf8', newline='') as output_file:
     fc = csv.DictWriter(output_file, fieldnames=['price', 'address', 'beds', 'baths', 'sqft'])
     fc.writeheader()
     fc.writerows(zillow_results)
+print("Output file complete")
