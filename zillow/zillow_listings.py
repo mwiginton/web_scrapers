@@ -19,7 +19,8 @@ continue_paging = True
 zillow_results = []
 
 while continue_paging:
-    base_url = "https://www.zillow.com/homes/for_sale/77019_rb/{}_p"
+    # pricea_sort
+    base_url = "https://www.zillow.com/homes/for_sale/77019_rb/pricea_sort/{}_p"
     listings_response = requests.get(base_url.format(page_num), headers=req_headers)
     soup = bs4.BeautifulSoup(listings_response.text, "lxml")
 
