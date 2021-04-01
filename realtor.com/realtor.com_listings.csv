@@ -1,43 +1,43 @@
 price,address,beds,baths,sqft
-699000,"1812 Elmen St, Houston, TX 77019",4,3.5,3784
-279875,"1010 Rosine St Apt 20, Houston, TX 77019",2,2,1129
-243900,"3231 Allen Pkwy Apt 4107, Houston, TX 77019",2,2,1006
-1499000,"1711 Morse St, Houston, TX 77019",4,3.5,3945
-254900,"3231 Allen Pkwy Apt 3202, Houston, TX 77019",2,2,1006
-240000,"3231 Allen Pkwy Apt 1316, Houston, TX 77019",2,2,1006
-219000,"3231 Allen Pkwy Apt 2303, Houston, TX 77019",2,1,835
-192000,"3231 Allen Pkwy Apt 5202, Houston, TX 77019",1,1,641
-375000,"1003 W Van Buren St, Houston, TX 77019",2,2.5,2125
+145000,"1605 Cleveland St, Houston, TX 77019",[],[],[]
 159900,"3231 Allen Pkwy Apt 4103, Houston, TX 77019",1,1,537
-485000,"1977 Indiana St, Houston, TX 77019",3,3.5,2452
-649000,"1906 Brun St, Houston, TX 77019",3,3.5,3130
-360000,"1022 LA Rue St, Houston, TX 77019",2,2,1896
-207000,"1010 Rosine St Apt 309, Houston, TX 77019",1,1,1095
-885000,"402 W Pierce St, Houston, TX 77019",3,3.5,3370
-240000,"1601 S Shepherd Dr Apt 135, Houston, TX 77019",1,1.5,798
-685000,"1321 W Clay St, Houston, TX 77019",3,3.5,3000
-435000,"1008 Marconi St Unit B, Houston, TX 77019",3,2.5,2184
-370000,"1419 Montrose Blvd Unit 201, Houston, TX 77019",2,2,1279
-975000,"2520 Kingston St, Houston, TX 77019",3,3.5,3254
-774000,"1504 Eberhard St, Houston, TX 77019",3,3.5,2949
-945000,"2318 Welch St, Houston, TX 77019",3,3.5,3078
+160000,"3231 Allen Pkwy Apt 5105, Houston, TX 77019",1,1,537
+165000,"3231 Allen Pkwy Apt 1308, Houston, TX 77019",1,1,580
+165000,"3231 Allen Pkwy Apt 1209, Houston, TX 77019",1,1,580
+165000,"3231 Allen Pkwy Apt 5301, Houston, TX 77019",1,1,537
+186000,"3231 Allen Pkwy Apt 1111, Houston, TX 77019",1,1,580
+189000,"1601 S Shepherd St Unit 32, Houston, TX 77019",1,1,850
+189000,"3231 Allen Pkwy Apt 1212, Houston, TX 77019",1,1,641
+190000,"1010 Rosine St Apt 103, Houston, TX 77019",1,1,872
+192000,"3231 Allen Pkwy Apt 5202, Houston, TX 77019",1,1,641
+194900,"1010 Rosine St Apt 47, Houston, TX 77019",1,1.5,819
+194995,"1408 Valentine St, Houston, TX 77019",[],[],[]
+195000,"1601 S Shepherd Dr Apt 228, Houston, TX 77019",1,1.5,847
 199900,"1601 S Shepherd Dr Apt 115, Houston, TX 77019",1,1,798
-575000,"1604 Driscoll St, Houston, TX 77019",3,3.5,2387
-620000,"516 W Polk St, Houston, TX 77019",3,3.5,2710
-1190000,"2315 Peckham St, Houston, TX 77019",3,3.5,3575
-325000,"3333 Allen Pkwy Unit 505, Houston, TX 77019",1,1,973
-5995000,"2158 Brentwood Dr, Houston, TX 77019",5,5.5,7185
-2750000,"2154 Inwood Dr, Houston, TX 77019",4,5.5,4596
-569900,"1309 W Bell St, Houston, TX 77019",3,3.5,2252
-1800000,"2109 Morse St, Houston, TX 77019",4,4.5,4507
-1100000,"2312 Peckham St, Houston, TX 77019",5,3.5,3916
-1349000,"2103 Argonne St Unit B, Houston, TX 77019",4,4.5,3576
+207000,"1010 Rosine St Apt 309, Houston, TX 77019",1,1,1095
+207500,"1601 S Shepherd Dr Apt 217, Houston, TX 77019",1,1,798
+208000,"1601 S Shepherd Dr Apt 136, Houston, TX 77019",1,1,798
+209500,"1601 S Shepherd Dr Apt 20, Houston, TX 77019",1,1,850
+214900,"2100 Welch St Apt C113, Houston, TX 77019",1,1,926
+215000,"1601 S Shepherd Dr Apt 60, Houston, TX 77019",1,1.5,850
+219000,"3231 Allen Pkwy Apt 2303, Houston, TX 77019",2,1,835
+219000,"1010 Rosine St Apt 28, Houston, TX 77019",1,1,1095
+223000,"2100 Welch St Apt C313, Houston, TX 77019",1,1,926
+235000,"2111 Welch St Apt A232, Houston, TX 77019",2,1,1230
+235000,"3231 Allen Pkwy Apt 6207, Houston, TX 77019",2,2,1006
+240000,"3231 Allen Pkwy Apt 1316, Houston, TX 77019",2,2,1006
+240000,"1601 S Shepherd Dr Apt 135, Houston, TX 77019",1,1,798
+243900,"3231 Allen Pkwy Apt 4107, Houston, TX 77019",2,2,1006
+244000,"3231 Allen Parkway St Unit 5307, Houston, TX 77019",2,2,1006
+244500,"3231 Allen Pkwy Apt 4306, Houston, TX 77019",2,2,1006
+245000,"3333 Allen Pkwy Unit 300, Houston, TX 77019",1,1,471
+248900,"3231 Allen Pkwy Apt 6106, Houston, TX 77019",2,2,1006
 249000,"1601 S Shepherd Dr Apt 241, Houston, TX 77019",2,1.5,956
-1375000,"3331 Damico St Unit 503, Houston, TX 77019",2,2.5,2750
-1899000,"2239 Mimosa Dr, Houston, TX 77019",4,4.5,5067
-689000,"1212 Crocker St, Houston, TX 77019",3,2.5,2577
-2350000,"2406 Westgate Dr, Houston, TX 77019",4,3.5,5031
-3300000,"2421 Brentwood Dr, Houston, TX 77019",4,5.5,4660
-1175000,"2313 Peckham St, Houston, TX 77019",3,3.5,3575
-719000,"1215 Van Buren St, Houston, TX 77019",4,3.5,3860
-5950000,"2232 Troon Rd, Houston, TX 77019",7,5.5,6488
+249900,"3231 Allen Pkwy Apt 5207, Houston, TX 77019",2,2,1006
+254900,"3231 Allen Pkwy Apt 3202, Houston, TX 77019",2,2,1006
+260000,"1010 Rosine St Apt 24, Houston, TX 77019",2,2,1129
+264000,"1010 Rosine St Apt 25, Houston, TX 77019",2,2,1300
+268000,"2100 Welch St Apt C311, Houston, TX 77019",2,2,1252
+269000,"1010 Rosine St Apt 29, Houston, TX 77019",2,2,1300
+279875,"1010 Rosine St Apt 20, Houston, TX 77019",2,2,1129
+288000,"2100 Welch St Apt C103, Houston, TX 77019",2,1.5,1327
