@@ -6,6 +6,7 @@ price,address,beds,baths,sqft
 165000,"3231 Allen Pkwy Apt 1209, Houston, TX 77019",1,1,580
 165000,"3231 Allen Pkwy Apt 5301, Houston, TX 77019",1,1,537
 186000,"3231 Allen Pkwy Apt 1111, Houston, TX 77019",1,1,580
+188000,"2111 Welch St Apt A325, Houston, TX 77019",1,1,850
 189000,"1601 S Shepherd St Unit 32, Houston, TX 77019",1,1,850
 189000,"3231 Allen Pkwy Apt 1212, Houston, TX 77019",1,1,641
 190000,"1010 Rosine St Apt 103, Houston, TX 77019",1,1,872
@@ -41,3 +42,212 @@ price,address,beds,baths,sqft
 269000,"1010 Rosine St Apt 29, Houston, TX 77019",2,2,1300
 279875,"1010 Rosine St Apt 20, Houston, TX 77019",2,2,1129
 288000,"2100 Welch St Apt C103, Houston, TX 77019",2,1.5,1327
+295499,"2100 Welch St Apt C205, Houston, TX 77019",2,1.5,1380
+299000,"1010 Rosine St Apt 41, Houston, TX 77019",2,2,1050
+299999,"1010 Rosine St Apt 39, Houston, TX 77019",2,2,1300
+306000,"2111 Welch St Apt A224, Houston, TX 77019",2,2,1390
+308900,"918 Ruthven St, Houston, TX 77019",2,2,1730
+314000,"1601 W Webster St Unit 8, Houston, TX 77019",2,2,1754
+314900,"2007 Woodhead St, Houston, TX 77019",2,1.5,1312
+318000,"907 Saulnier St, Houston, TX 77019",2,2,1844
+320000,"1112 Crosby St, Houston, TX 77019",2,2,2130
+320000,"1201 McDuffie St Unit 184, Houston, TX 77019",2,2.5,1520
+323000,"1520 Oneil St, Houston, TX 77019",2,2,1794
+324900,"1201 McDuffie St Unit 165, Houston, TX 77019",2,2.5,1560
+325000,"1201 McDuffie St Unit 221, Houston, TX 77019",2,2.5,1600
+325000,"3333 Allen Pkwy Unit 505, Houston, TX 77019",1,1,973
+326000,"1207 Arthur St, Houston, TX 77019",2,2,2130
+329000,"2100 Welch St Apt C104, Houston, TX 77019",2,2,1390
+329500,"1517 Oneil St, Houston, TX 77019",2,2.5,1650
+339000,"930 Andrews St, Houston, TX 77019",2,2,1738
+339000,"1201 McDuffie St Unit 146, Houston, TX 77019",2,2.5,1560
+345000,"1512 W Webster St, Houston, TX 77019",2,2,1930
+345000,"823 Saulnier St, Houston, TX 77019",3,2,2027
+349000,"3333 Allen Pkwy Unit 1306, Houston, TX 77019",1,1,1024
+349900,"1205 Oneil St, Houston, TX 77019",[],[],[]
+350000,"1022 LA Rue St, Houston, TX 77019",2,2,1896
+350000,"1405 Oneil St, Houston, TX 77019",3,2.5,1890
+359900,"1012 Van Buren St, Houston, TX 77019",2,2.5,2113
+360000,"1205 Genesee St, Houston, TX 77019",3,3.5,2031
+370000,"1419 Montrose Blvd Unit 201, Houston, TX 77019",2,2,1279
+375000,"1003 W Van Buren St, Houston, TX 77019",2,2.5,2125
+379000,"3333 Allen Pkwy Unit 1408, Houston, TX 77019",1,1.5,1273
+379000,"1025 S Shepherd Dr Unit 111, Houston, TX 77019",1,1.5,2003
+379900,"1716 W Dallas St Unit 13, Houston, TX 77019",2,2,2038
+379900,"1424 W Webster St, Houston, TX 77019",3,3,2154
+385000,"2617 W Dallas St, Houston, TX 77019",3,3,2020
+387500,"1413 Oneil St, Houston, TX 77019",3,3.5,2536
+390000,"1507 Robin St, Houston, TX 77019",[],[],[]
+394000,"1201 McDuffie St Unit 159, Houston, TX 77019",2,2.5,1600
+397900,"1202 Columbus St, Houston, TX 77019",3,3.5,2089
+399000,"728 Ruthven St, Houston, TX 77019",3,2.5,2539
+399900,"1429 Oneil St, Houston, TX 77019",3,3.5,2536
+399900,"1314 W Webster St, Houston, TX 77019",3,2.5,2686
+399950,"1006 Stanford St, Houston, TX 77019",2,2.5,2156
+415000,"1910 Huldy St Apt B, Houston, TX 77019",2,2.5,1728
+424900,"831 Rosine St, Houston, TX 77019",3,3.5,2451
+425000,"2020 Fairview Ave, Houston, TX 77019",2,2.5,1821
+425000,"1607 W Dallas St Unit A, Houston, TX 77019",2,2.5,2251
+435000,"1902 Greenwich Place Dr, Houston, TX 77019",3,3.5,2040
+435000,"2121 W Kirby Dr Unit 1MSW, Houston, TX 77019",1,1,800
+435000,"1008 Marconi St Unit B, Houston, TX 77019",3,2.5,2184
+444000,"1320 W Dallas St, Houston, TX 77019",3,2.5,2650
+448990,"1216 W Dallas St, Houston, TX 77019",3,3.5,2349
+449000,"2014 McDuffie St, Houston, TX 77019",3,2.5,2122
+449000,"1106 Columbus St, Houston, TX 77019",2,2.5,2078
+450000,"3333 Allen Pkwy Unit 401, Houston, TX 77019",2,2,1533
+459999,"1112 Robin St, Houston, TX 77019",3,3,2207
+465000,"1212 W Dallas St, Houston, TX 77019",3,3.5,2349
+470000,"3333 Allen Pkwy Unit 403, Houston, TX 77019",2,2.5,1544
+475000,"1206 Ruthven St, Houston, TX 77019",3,2.5,1497
+475000,"3305 W Lamar St Unit A, Houston, TX 77019",3,3.5,2302
+479900,"3304 W Dallas St, Houston, TX 77019",3,2.5,2261
+479900,"3310 W Dallas St, Houston, TX 77019",3,2.5,2493
+479999,"310 W Bell St, Houston, TX 77019",3,3.5,2532
+485000,"1977 Indiana St, Houston, TX 77019",3,3.5,2452
+490000,"1025 S Shepherd Dr Unit 110, Houston, TX 77019",2,2,1884
+495000,"1616 Ruthven St, Houston, TX 77019",3,2.5,2020
+495000,"2216 Welch St, Houston, TX 77019",2,2.5,2448
+500000,"1004 Cleveland St, Houston, TX 77019",3,3.5,2129
+510000,"1135 W Bell St, Houston, TX 77019",2,3,2824
+519000,"1241 W Pierce St, Houston, TX 77019",3,2.5,2735
+525000,"1504 Saulnier St, Houston, TX 77019",3,3.5,2197
+525000,"1508 Saulnier St, Houston, TX 77019",3,3.5,2197
+525000,"1506 Saulnier St, Houston, TX 77019",3,3.5,2197
+540000,"1612 Ruthven St Unit A, Houston, TX 77019",3,3.5,2405
+544900,"2510 Woodhead St Unit B, Houston, TX 77019",3,2.5,2576
+549000,"1127 W Bell St, Houston, TX 77019",3,3.5,2375
+550000,"1016 Ruthven Lot A Lot 7, Houston, TX 77019",[],[],[]
+550000,"2106 Hazard St, Houston, TX 77019",2,1,1040
+550000,"2415 Kingston St, Houston, TX 77019",3,2.5,2512
+555000,"3333 Allen Pkwy Unit 502, Houston, TX 77019",2,2,1721
+555000,"1504 Hazel St, Houston, TX 77019",3,3.5,2724
+559000,"1817 Huldy St, Houston, TX 77019",3,2.5,2722
+560000,"2107 Driscoll St, Houston, TX 77019",3,3.5,2215
+568000,"2504 Park St Unit A, Houston, TX 77019",4,3.5,2960
+569900,"1309 W Bell St, Houston, TX 77019",3,3.5,2252
+575000,"3333 Allen Pkwy Unit 1203, Houston, TX 77019",2,2.5,1749
+575000,"1114 Andrews St, Houston, TX 77019",3,3.5,3278
+575000,"1604 Driscoll St, Houston, TX 77019",3,3.5,2387
+575000,"2314 Huldy St Apt B, Houston, TX 77019",3,2.5,2729
+579000,"1710-12 Park St, Houston, TX 77019",[],[],[]
+579900,"1919 Park St, Houston, TX 77019",3,2.5,3102
+585000,"1609 McDuffie St, Houston, TX 77019",3,3.5,2846
+599000,"2007 Brun St Apt F, Houston, TX 77019",3,3.5,2664
+599000,"320 W Pierce St, Houston, TX 77019",3,3.5,2400
+599000,"2410 Driscoll St, Houston, TX 77019",3,3,2256
+599000,"3333 Allen Pkwy Unit 608, Houston, TX 77019",2,2.5,1860
+599000,"815 W Gray St, Houston, TX 77019",1,[],1617
+599500,"2011 Park St, Houston, TX 77019",3,3.5,3197
+599700,"3333 Allen Pkwy Unit 1101, Houston, TX 77019",2,2.5,1738
+600000,"1815 W Clay St, Houston, TX 77019",[],[],[]
+620000,"1406 Crocker St, Houston, TX 77019",3,3.5,2933
+620000,"516 W Polk St, Houston, TX 77019",3,3.5,2710
+624705,"1104 Gross St, Houston, TX 77019",3,2.5,2402
+625000,"2027 Woodhead St, Houston, TX 77019",3,3.5,3049
+629000,"1201 Crocker St, Houston, TX 77019",3,3.5,3083
+629888,"516 W Gray St Apt 4, Houston, TX 77019",1,1,2540
+630000,"1005 S Shepherd Dr Apt 605, Houston, TX 77019",2,2,2336
+635000,"2307 Driscoll St, Houston, TX 77019",3,1,2976
+635000,"3333 Allen Pkwy Unit 607, Houston, TX 77019",2,2.5,1749
+645000,"3333 Allen Pkwy Unit 710, Houston, TX 77019",2,2.5,1721
+649000,"1906 Brun St, Houston, TX 77019",3,3.5,3130
+653300,"3333 Allen Pkwy Unit 601, Houston, TX 77019",2,2.5,1738
+659900,"1005 S Shepherd Dr Apt 211, Houston, TX 77019",2,2,2687
+660000,"604 W Pierce St, Houston, TX 77019",4,3.5,2484
+669900,"1238 W Pierce St, Houston, TX 77019",3,3.5,3558
+675000,"1312 Crocker St, Houston, TX 77019",3,3.5,3432
+675000,"1610 Victor St, Houston, TX 77019",3,3.5,3298
+679000,"2314 Brun St, Houston, TX 77019",3,3.5,2693
+679440,"1027 Gross St, Houston, TX 77019",4,3.5,2931
+683674,"1031 Gross St, Houston, TX 77019",4,3.5,2931
+685000,"1321 W Clay St, Houston, TX 77019",3,3.5,3000
+688400,"1023 Gross St, Houston, TX 77019",4,3.5,2931
+689000,"1212 Crocker St, Houston, TX 77019",3,2.5,2577
+698000,"2108 Driscoll St, Houston, TX 77019",3,3.5,3241
+699000,"1215 Van Buren St, Houston, TX 77019",4,3.5,3860
+699000,"1812 Elmen St, Houston, TX 77019",4,3.5,3784
+699000,"1953 Haddon St, Houston, TX 77019",3,3.5,2534
+699900,"1011 Crocker St, Houston, TX 77019",3,2.5,2524
+699999,"1010 Crocker St, Houston, TX 77019",3,3.5,3917
+700000,"1106 Oneil St, Houston, TX 77019",2,1,1428
+717400,"1141 W Bell St, Houston, TX 77019",4,3.5,3026
+719000,"1406 Eberhard St, Houston, TX 77019",3,3.5,3381
+719900,"2418 Huldy St Unit A, Houston, TX 77019",4,3.5,3026
+719900,"2418 Huldy St Unit B, Houston, TX 77019",4,3.5,2990
+722400,"1145 W Bell St, Houston, TX 77019",4,3.5,3022
+725000,"1706 McDuffie St, Houston, TX 77019",3,3.5,3184
+729900,"1119 Waugh Dr, Houston, TX 77019",1,1,2660
+729900,"805 W Clay St, Houston, TX 77019",3,3.5,2623
+737500,"1234 W Pierce St, Houston, TX 77019",3,3.5,3297
+740000,"907 W Gray St, Houston, TX 77019",1,[],2808
+750000,"2021 Driscoll St, Houston, TX 77019",3,3.5,3424
+774000,"1504 Eberhard St, Houston, TX 77019",3,3.5,2949
+779900,"1801 McDuffie St, Houston, TX 77019",4,3.5,3000
+780000,"1915 McDuffie St, Houston, TX 77019",1,1,2736
+789000,"2324 Peckham St, Houston, TX 77019",3,2,1925
+798000,"2017 Driscoll St Unit B, Houston, TX 77019",3,3.5,3506
+799000,"316 W Clay St, Houston, TX 77019",4,4.5,3667
+819000,"2413 McDuffie St, Houston, TX 77019",4,3.5,3301
+829000,"308 W Pierce St, Houston, TX 77019",4,4.5,4194
+829900,"2005 Brun St, Houston, TX 77019",4,3.5,3002
+830000,"110 W Gray St Lot 8, Houston, TX 77019",[],[],[]
+839000,"306 W Pierce St, Houston, TX 77019",4,4.5,4194
+849000,"2013 McDuffie St, Houston, TX 77019",4,3.5,3159
+850000,"511 W Pierce St, Houston, TX 77019",3,3.5,3415
+850000,"2422 Mimosa Dr, Houston, TX 77019",3,3.5,2990
+875000,"503 W Bell St, Houston, TX 77019",3,3.5,3614
+875000,"2313 Kingston St, Houston, TX 77019",3,3.5,3223
+879000,"2006 Elmen St, Houston, TX 77019",8,4,3776
+879999,"1811 McDuffie St, Houston, TX 77019",4,3.5,3406
+880000,"2010 Elmen St, Houston, TX 77019",8,4,3776
+885000,"402 W Pierce St, Houston, TX 77019",3,3.5,3370
+920000,"608 Stanford St Unit A, Houston, TX 77019",3,2.5,2882
+937500,"1415 Waugh Dr, Houston, TX 77019",[],[],[]
+945000,"1926 W Bell St, Houston, TX 77019",[],[],[]
+945000,"2318 Welch St, Houston, TX 77019",3,3.5,3078
+949000,"1941 W Clay St, Houston, TX 77019",3,3.5,3363
+970000,"3612 W Clay St, Houston, TX 77019",3,4.5,3632
+972500,"2011 Woodhead St, Houston, TX 77019",3,3.5,[]
+975000,"2520 Kingston St, Houston, TX 77019",3,3.5,3254
+979000,"1518 W Clay St, Houston, TX 77019",3,3.5,3575
+995000,"3333 Allen Pkwy Unit 3001, Houston, TX 77019",3,3,2115
+999000,"415 W Bell St, Houston, TX 77019",3,3.5,4385
+999000,"3333 Allen Pkwy Unit 2109, Houston, TX 77019",2,2,1933
+999950,"519 W Polk St, Houston, TX 77019",4,4.5,3807
+1025000,"2522 Kingston St, Houston, TX 77019",3,3.5,3254
+1050000,"3333 Allen Pkwy Unit 2505, Houston, TX 77019",2,2.5,2196
+1075000,"3333 Allen Pkwy Unit 1905, Houston, TX 77019",2,2.5,2196
+1095000,"3331 Damico St Unit 405, Houston, TX 77019",2,2.5,2430
+1099000,"2211 Dunraven Ln, Houston, TX 77019",3,3.5,3902
+1099000,"2301 Woodhead St, Houston, TX 77019",3,3.5,3320
+1099000,"2303 Woodhead St, Houston, TX 77019",3,3.5,3320
+1100000,"2312 Peckham St, Houston, TX 77019",5,3.5,3916
+1175000,"2313 Peckham St, Houston, TX 77019",3,3.5,3575
+1190000,"2315 Peckham St, Houston, TX 77019",3,3.5,3575
+1195000,"3708 Newhouse St, Houston, TX 77019",[],[],[]
+1225000,"2211 Woodhead St, Houston, TX 77019",4,3.5,4002
+1225000,"2215 Woodhead St, Houston, TX 77019",4,3.5,4002
+1250000,"2304 Peckham St, Houston, TX 77019",4,4.5,3845
+1275000,"1226 W Pierce St Unit 6, Houston, TX 77019",[],[],4586
+1295000,"2401 Morse St, Houston, TX 77019",3,3.5,3820
+1349000,"2103 Argonne St Unit B, Houston, TX 77019",4,4.5,3576
+1349000,"2013 Persa St, Houston, TX 77019",4,3.5,4484
+1375000,"3331 Damico St Unit 503, Houston, TX 77019",2,2.5,2750
+1390000,"2151 Stanmore Dr, Houston, TX 77019",[],[],[]
+1395000,"2024 Buffalo Ter, Houston, TX 77019",3,3.5,3603
+1450000,"1606 Elmen St, Houston, TX 77019",4,4.5,4606
+1450000,"3115 Locke Ln, Houston, TX 77019",[],[],[]
+1490000,"2153 Stanmore Dr, Houston, TX 77019",2,2,2471
+1499000,"1517 Hazard St, Houston, TX 77019",3,3.5,4168
+1499000,"2121 Kirby Dr Unit 3NW, Houston, TX 77019",2,2.5,3026
+1499000,"1711 Morse St, Houston, TX 77019",4,3.5,3945
+1499000,"1927 W Lamar St, Houston, TX 77019",3,4.5,4196
+1499000,"1931 W Lamar St, Houston, TX 77019",3,4.5,4218
+1499900,"1907 Revere St, Houston, TX 77019",3,3.5,4121
+1499900,"1805 McDuffie St, Houston, TX 77019",3,3.5,4128
+1549000,"1919 Elmen St, Houston, TX 77019",3,3.5,3907
+1586910,"2065 Brentwood Dr, Houston, TX 77019",4,4,4069
+1595000,"2240 Mimosa Dr Unit 3N, Houston, TX 77019",3,3,2333
+1599000,"2415 Mimosa Dr, Houston, TX 77019",3,3.5,3823
+1600000,"1610 Hazard St, Houston, TX 77019",5,5,4407
