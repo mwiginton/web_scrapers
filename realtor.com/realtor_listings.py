@@ -8,7 +8,7 @@ req_headers = {
 }
 realtor_results = []
 
-base_url = "https://www.realtor.com/realestateandhomes-search/77019"
+base_url = "https://www.realtor.com/realestateandhomes-search/77019/sby-1"
 listings_response = requests.get(base_url, headers=req_headers)
 soup = bs4.BeautifulSoup(listings_response.text, "lxml")
 
@@ -43,8 +43,6 @@ for listing in realtor_listings:
     
     if (len(address) > 0):
         address = address[0].getText()
-    
-    print("\n")
 
     listing_obj = {}
     listing_obj['price'] = listing_price
@@ -56,7 +54,9 @@ for listing in realtor_listings:
     if (type(listing_obj["price"]) == str and type(listing_obj["address"]) == str):
         realtor_results.append(listing_obj)
 
+print("Data process complete. Writing output file")
 with open('realtor.com_listings.csv', 'w', encoding='utf8', newline='') as output_file:
     fc = csv.DictWriter(output_file, fieldnames=['price', 'address', 'beds', 'baths', 'sqft'])
     fc.writeheader()
     fc.writerows(realtor_results)
+print("Output file complete")
