@@ -76,9 +76,9 @@ while continue_paging:
 
     page_num += 1
 
-print("Data process complete. Writing output file")
+print("Data process complete. Writing output file.")
 with open('zillow_listings.csv', 'w', encoding='utf8', newline='') as output_file:
     fc = csv.DictWriter(output_file, fieldnames=['price', 'address', 'beds', 'baths', 'sqft'])
     fc.writeheader()
     fc.writerows(zillow_results)
-print("Output file complete")
+print("Output file complete.")
